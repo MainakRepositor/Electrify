@@ -1,5 +1,6 @@
 # Streamlit_Electric_Circuit_Simulation
 
+![image](https://github.com/MainakRepositor/Electrify/assets/64016811/342ecfa7-881f-4dea-bc5a-622e620ee615)
 
 Goal was to create a User friendly interface using Streamlit, the Python package, where a circuit simulation can be run.
 The User should be able to choose an input voltage, a number of resistors and their resistances.
