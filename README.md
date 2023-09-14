@@ -1,8 +1,5 @@
 # Streamlit_Electric_Circuit_Simulation
 
-Link to [Streamlit App](https://share.streamlit.io/att-ar/streamlit_electric_circuit_simulation/main/circsim.py):
-
-CHE181: Chemical Engineering Design Studio 2. Milestone 1: Circuit Simulation
 
 Goal was to create a User friendly interface using Streamlit, the Python package, where a circuit simulation can be run.
 The User should be able to choose an input voltage, a number of resistors and their resistances.
